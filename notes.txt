@@ -7,3 +7,5 @@ Lynda.com
 k8s
 docker
 containers
+efk
+prometheus
