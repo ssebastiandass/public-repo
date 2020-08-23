@@ -7,6 +7,5 @@ Lynda.com
 k8s
 docker
 containers
-grafana
-istio
+
 
