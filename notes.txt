@@ -3,3 +3,4 @@ DevOps notes
 Study Material
 URLs
 Youtube videos
+Lynda.com
