@@ -11,3 +11,5 @@ istio
 grafana
 prometheus
 efk
+mysql
+mongodb
